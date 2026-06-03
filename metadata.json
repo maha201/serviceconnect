@@ -1,0 +1,6 @@
+{
+  "name": "ServiceFlow Pro",
+  "description": "SaaS Field Service Management Platform. Built for dispatching technicians, managing tickets, live status updates, digital signature captures, customer feedback, and real-time operations dashboarding.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
